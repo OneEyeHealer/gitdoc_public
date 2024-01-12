@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Continuous Delivery in Azure DevOps",
+    "Language": "English",
+    "BaseURL": "https://github.com/OneEyeHealer/gitdoc/blob/master/Hands-on%20lab/",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/OneEyeHealer/gitdoc/master/Hands-on%20lab/Before%20the%20HOL.md?token=GHSAT0AAAAAACLVHFIZ3ONC3KBU5LTHPW4WZM73ZDA",
+        "Order": 1,
+        "RawFileBaseURL": "https://github.com/OneEyeHealer/gitdoc/blob/master/Hands-on%20lab/Before%20the%20HOL.md"
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/OneEyeHealer/gitdoc/master/Hands-on%20lab/HOL%20step-by-step%20-%20Continuous%20delivery%20in%20Azure%20DevOps.md",
+        "Order": 2,
+        "RawFileBaseURL": "https://github.com/OneEyeHealer/gitdoc/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Continuous%20delivery%20in%20Azure%20DevOps.md"
+      }
+    ]
+  }
+]
